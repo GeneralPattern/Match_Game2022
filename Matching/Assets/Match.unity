@@ -688,6 +688,18 @@ MonoBehaviour:
           m_StringArgument: Play
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 1137321901}
+        m_TargetAssemblyTypeName: SpriteBehaviour, Assembly-CSharp
+        m_MethodName: ChangeRendererColor
+        m_Mode: 2
+        m_Arguments:
+          m_ObjectArgument: {fileID: 11400000, guid: 37f2291958d96154786a23b395e1b06c, type: 2}
+          m_ObjectArgumentAssemblyTypeName: ColorID, Assembly-CSharp
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
 --- !u!114 &1020130124
 MonoBehaviour:
   m_ObjectHideFlags: 0
