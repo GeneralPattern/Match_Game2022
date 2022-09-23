@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Color Data List
   m_EditorClassIdentifier: 
   colorIDList:
-  - {fileID: 11400000, guid: 95e3d9491513cfd4884a88544e14eff5, type: 2}
-  - {fileID: 11400000, guid: d3a9b6c2b021b854a92c1a759270aedc, type: 2}
-  - {fileID: 11400000, guid: 8abd8b5c3dae0544988fc8f7aef3ccbb, type: 2}
-  currentColor: {fileID: 11400000, guid: d3a9b6c2b021b854a92c1a759270aedc, type: 2}
+  - {fileID: 11400000, guid: 8f7ee16c6de5ff74c87833354821d274, type: 2}
+  - {fileID: 11400000, guid: ca04fed3e1c32e444acaa6d1188c0aa5, type: 2}
+  - {fileID: 11400000, guid: 44cb7adf593aac646920458111a52600, type: 2}
+  currentColor: {fileID: 11400000, guid: ca04fed3e1c32e444acaa6d1188c0aa5, type: 2}

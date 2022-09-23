@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbdb5137630f0c848bd9bfb09243ed5c, type: 3}
-  m_Name: Blue
+  m_Script: {fileID: 11500000, guid: 9cd604e3336c5644cb98b7ff4782f3a6, type: 3}
+  m_Name: Dot Prefab
   m_EditorClassIdentifier: 
-  value: {r: 0.023584902, g: 0.5402752, b: 1, a: 1}
+  prefab: {fileID: 1639800604460880128, guid: 720fdb56805481a4291ea434ce0f507d, type: 3}
